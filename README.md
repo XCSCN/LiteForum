@@ -22,13 +22,15 @@
 
 支持我们继续开发本项目，只需要一个Star即可！
 
-#Welcome to LiteForum
+------------
+
+# Welcome to LiteForum
 
 LiteForum, a forum system developed based on ** Python ** and using the ** Flask module **
 
 This project was jointly developed by me and my friend ** execute **.
 
-##Using
+## Using
 
 Development and use of ** Python 3.8**
 It is recommended to use ** Python 3.8 ** for editing to ensure stability.
@@ -44,7 +46,7 @@ After installing ** flask,flask bootstarp,flask_cors** module running the projec
 
 Post use http://127.0.0.1:8080 Access to access. (This is your local IP, only you can access it using this IP.)
 
-##Support
+## Support
 
 Support us to continue developing this project, only one Star is needed!
 
