@@ -22,16 +22,16 @@
 
 # Welcome to LiteForum
 
-LiteForum, a forum system developed based on ** Python ** and using the ** Flask module **
+LiteForum, a forum system developed based on **Python** and using the **Flask module**
 
-This project was jointly developed by me and my friend ** execute **.
+This project was jointly developed by me and my friend **execute**.
 
 ## Using
 
-Development and use of ** Python 3.8**
-It is recommended to use ** Python 3.8 ** for editing to ensure stability.
+Development and use of **Python 3.8**
+It is recommended to use **Python 3.8** for editing to ensure stability.
 
-After installing ** flask,flask bootstarp,flask_cors** module running the project after,the
+After installing **flask,flask bootstarp,flask_cors** module running the project after,the
 
 >   * Running on http://127.0.0.1:8080
 
