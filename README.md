@@ -24,7 +24,7 @@
 
 LiteForum, a forum system developed based on **Python** and using the **Flask module**
 
-This project was jointly developed by me and my friend **execute**.
+This project was jointly developed by me and my friend **imcute**.
 
 ## Using
 
